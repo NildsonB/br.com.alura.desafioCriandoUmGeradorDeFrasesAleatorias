@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.alura</groupId>
-	<artifactId>desafioCriandoUmGeradorDeFrasesAleatorias</artifactId>
+	<artifactId>GeradorDeFrasesAleatorias</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
